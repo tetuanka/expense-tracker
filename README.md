@@ -6,10 +6,12 @@ A simple React Native app built with **Expo** for tracking personal expenses. Us
 
 ## Screenshots
 
-![Home Screen](assets/Home.jpg)  
-![Add Expense](assets/AddExpence.jpg)  
-![Edit Expense](assets/EditExpence.jpg)  
-![Monthly Summary Sheet](assets/Monthly.jpg)  
+<div style="display: flex; gap: 10px;">
+<img src="assets/Home.jpg" alt="Home" width="200"/>
+<img src="assets/Monthly.jpg" alt="Monthly" width="200"/>
+<img src="assets/AddExpence.jpg" alt="Add Expence" width="200"/>
+<img src="assets/EditExpence.jpg" alt="Edit Expence" width="200"/>
+</div>
 
 ---
 
